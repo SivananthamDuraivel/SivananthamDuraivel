@@ -1,6 +1,4 @@
-<div align="center">
-<img src="My Name.gif" width="50%">
-</div>
+
 
 ## Languages Known
 ![](https://img.shields.io/badge/C-000080?style=for-the-badge&logo=c&logoColor=white)
@@ -21,15 +19,15 @@
 <br>
 </p>
 
-![profile view count](https://komarev.com/ghpvc/?username=TechWriter03&style=for-the-badge)
+![profile view count](https://komarev.com/ghpvc/?username=SivananthamDuraivel&style=for-the-badge)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TechWriter03&theme=git-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SivananthamDuraivel&theme=git-dark)](https://git.io/streak-stats)
 
-![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechWriter03&show_icons=true&theme=dark)
+![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SivananthamDuraivel&show_icons=true&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechWriter03&theme=tokyonight)](https://github.com/anuraghazara/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SivananthamDuraivel&theme=tokyonight)](https://github.com/anuraghazara/github-readme-stats)
 
 <!---
-TechWriter03/TechWriter03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SivananthamDuraivel/SivananthamDuraivel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
