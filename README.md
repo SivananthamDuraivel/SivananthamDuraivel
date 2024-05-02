@@ -1,4 +1,5 @@
-
+## MyPortfolio
+[https://sivananthamduraivel.github.io/MyPortfolio/](https://sivananthamduraivel.github.io/MyPortfolio/)
 
 ## Languages Known
 ![](https://img.shields.io/badge/C-000080?style=for-the-badge&logo=c&logoColor=white)
@@ -26,8 +27,3 @@
 ![Santhosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SivananthamDuraivel&show_icons=true&theme=dark)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SivananthamDuraivel&theme=tokyonight)](https://github.com/anuraghazara/github-readme-stats)
-
-<!---
-SivananthamDuraivel/SivananthamDuraivel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
