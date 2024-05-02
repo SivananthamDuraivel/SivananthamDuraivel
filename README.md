@@ -1,5 +1,5 @@
 ## MyPortfolio
-[https://sivananthamduraivel.github.io/MyPortfolio/](https://sivananthamduraivel.github.io/MyPortfolio/)
+[Click here to view my Portfolio!](https://sivananthamduraivel.github.io/MyPortfolio/)
 
 ## My Expertise
 ![](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -20,12 +20,6 @@
 
 <hr></hr>
 
-## Interested In Learning
-![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<hr></hr>
 
 <p align="center">
 <br>
